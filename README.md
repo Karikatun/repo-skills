@@ -21,6 +21,15 @@
 | [repo-mod-monster-combat-coop](monsters/repo-mod-monster-combat-coop/SKILL.md) | Телеграф, контакты, урон, прерывания и синхронизация |
 | [repo-mod-acceptance](monsters/repo-mod-acceptance/SKILL.md) | Тесты, проверка пакета в игре, приёмка и передача результата |
 
+## Ценности (valuables)
+
+| Навык | Когда применять |
+| --- | --- |
+| [repo-mod-valuable-design](valuables/repo-mod-valuable-design/SKILL.md) | Идея, штатный аналог, баланс и задание на модель |
+| [repo-mod-valuable-prefab](valuables/repo-mod-valuable-prefab/SKILL.md) | Модель, физика, стоимость, габариты спавна и регистрация REPOLib |
+| [repo-mod-valuable-interactions](valuables/repo-mod-valuable-interactions/SKILL.md) | Особые эффекты, производные предметы, цена и синхронизация в кооперативе |
+| [repo-mod-valuable-verification](valuables/repo-mod-valuable-verification/SKILL.md) | Естественный спавн, штатный хват, повреждения, сдача и кооперативные проверки |
+
 ## Общие навыки
 
 | Навык | Когда применять |
