@@ -1,6 +1,6 @@
 # R.E.P.O. Mod Skills
 
-Навыки для Codex по созданию и проверке модов R.E.P.O. Практические примеры взяты из разработки Обручника и Boobees Valuables. Версии и числа в кейсах относятся к указанным сборкам. Для новой задачи сверяйте установленную игру и зависимости.
+Навыки для Codex по созданию и проверке модов R.E.P.O. Практические примеры взяты из разработки Обручника, Boobees Valuables и Boobees Suits. Версии и числа в кейсах относятся к указанным сборкам. Для новой задачи сверяйте установленную игру и зависимости.
 
 Скопируйте нужную папку навыка целиком в каталог навыков агента. Папка содержит `SKILL.md` и, где нужно, `references/`. В Codex можно вызвать установленный навык по имени, например `$repo-mod-new-monster`.
 
@@ -29,6 +29,14 @@
 | [repo-mod-valuable-prefab](valuables/repo-mod-valuable-prefab/SKILL.md) | Модель, физика, стоимость, габариты спавна и регистрация REPOLib |
 | [repo-mod-valuable-interactions](valuables/repo-mod-valuable-interactions/SKILL.md) | Особые эффекты, производные предметы, цена и синхронизация в кооперативе |
 | [repo-mod-valuable-verification](valuables/repo-mod-valuable-verification/SKILL.md) | Естественный спавн, штатный хват, повреждения, сдача и кооперативные проверки |
+
+## Косметика (cosmetics)
+
+| Навык | Когда применять |
+| --- | --- |
+| [repo-mod-cosmetic-fit](cosmetics/repo-mod-cosmetic-fit/SKILL.md) | Замеры семибота, посадка по ригу, 3D-модели и стыки в движении |
+| [repo-mod-cosmetic-prefab](cosmetics/repo-mod-cosmetic-prefab/SKILL.md) | Слоты, Unity prefab, материалы, миниатюры и регистрация |
+| [repo-mod-cosmetic-verification](cosmetics/repo-mod-cosmetic-verification/SKILL.md) | Проверка меню, анимаций, физики в кооперативе и архива |
 
 ## Общие навыки
 
