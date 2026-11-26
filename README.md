@@ -6,7 +6,7 @@
 
 ## Unity
 
-[Навыки Unity](unity/README.md) ведут к оригинальным инструкциям по NavMesh, профилированию и Unity Test Framework.
+[Навыки Unity](unity/README.md) включают локальные руководства по профилированию и Unity Test Framework и ссылку на исходный навык NavMesh.
 
 ## Монстры
 
